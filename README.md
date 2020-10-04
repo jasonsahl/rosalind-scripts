@@ -1,2 +1,2 @@
-# A set of unrelated scripts to solve basic bioinformatics problems
+# A set of scripts to solve basic bioinformatics problems
 # rosalind.info
